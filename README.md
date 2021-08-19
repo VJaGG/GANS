@@ -1,1 +1,1 @@
-# GANS-
+# GANS
